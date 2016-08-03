@@ -1,0 +1,12 @@
+{
+    "name": "zantolov/scrapper-sample",
+    "require": {
+        "fabpot/goutte": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Zoran Antolovic",
+            "email": "zoran.antolovic@trikoder.net"
+        }
+    ]
+}
